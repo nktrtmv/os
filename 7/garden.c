@@ -11,8 +11,8 @@
 
 
 
-#define GARDEN_X 3
-#define GARDEN_Y 3
+#define GARDEN_X 30
+#define GARDEN_Y 30
 #define OBSTACLE_COUNT 6
 #define MOVE_TIME 1
 #define CLEAR 0
